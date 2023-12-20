@@ -1,0 +1,13 @@
+content_assist_autoactivation_triggers_java=.@(\#&$abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.programming.techie.productservice.model.Product"><rhs name\="com.programming.techie.productservice.model.Product"/></lhs><lhs name\="org.testcontainers.containers.GenericContainer"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.Container"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.traits.LinkableContainer"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.ContainerState"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.wait.strategy.WaitStrategyTarget"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.lifecycle.Startable"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.FailureDetectingExternalResource"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.junit.rules.TestRule"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.testcontainers.containers.MongoDBContainer"><rhs name\="org.testcontainers.containers.MongoDBContainer"/></lhs><lhs name\="org.springframework.util.MimeType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="org.springframework.http.MediaType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="com.programming.techie.productservice.dto.ProductResponse"><rhs name\="com.programming.techie.productservice.dto.ProductResponse"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
